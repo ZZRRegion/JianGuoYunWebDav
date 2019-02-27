@@ -14,8 +14,8 @@ namespace JianGuoYunWebDav
     public class HttpWebDav
     {
         public string BaseUrl => "https://dav.jianguoyun.com/dav/";
-        public string UserName => "854974242@qq.com";
-        public string Password => "aa47u9x2bguctr5u";
+        public string UserName => "用户名";
+        public string Password => "密码";
         private HttpClient httpClient;
         public HttpWebDav()
         {
